@@ -18,6 +18,7 @@ import org.apache.hadoop.hbase.coprocessor.RegionCoprocessorEnvironment;
 import org.apache.hadoop.hbase.regionserver.wal.WALEdit;
 import org.apache.hadoop.hbase.util.Bytes;
 
+//git测试
 public class WUserIndexCorpocessor extends BaseRegionObserver{
 
 	private Connection connection;
